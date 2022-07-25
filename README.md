@@ -122,7 +122,7 @@ pip install . && cmake .
 要花点时间⬆
 It takes time⬆
 
-![就这!That is it!](successful.png)
+![就这!That is it!](successful.png "就这!That is it!")
 ## 更多
 ## More
 * ## [jupyter + wsl2](https://zhuanlan.zhihu.com/p/158824489)
