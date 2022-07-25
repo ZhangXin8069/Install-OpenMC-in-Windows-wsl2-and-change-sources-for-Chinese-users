@@ -7,7 +7,7 @@ continuous-energy transport code that uses HDF5 format cross sections. The
 project started under the Computational Reactor Physics Group at MIT.](https://github.com/openmc-dev/openmc)**
 
 ****************************
-# **大家好，我是一名人菜瘾大的计算机新手。由于专业需要，我需要在这个暑假（2022/7-8）学习蒙特卡洛方法在核物理方面的应用（OpenMC）。经过近一个星期的瞎搞（我几乎用了官方文档中的每一个方法，除了Mac平台上的😂），终于在wsl2上差不多完成，现在分享给大家，希望不要像我一样惨🤞。**
+# **大家好，我是一名人菜瘾大的计算机新手。由于专业需要，我要在这个暑假（2022/7-8）学习蒙特卡洛方法在核物理方面的应用（OpenMC）。经过近一个星期的瞎搞（我几乎用了官方文档中的每一个方法，除了Mac平台上的😂），终于在wsl2上差不多完成，现在分享给大家，希望不要像我一样惨🤞。**
 ## **Hello everyone, I am a computer green hand but addicted to computer. Due to the need of my major, I need to learn the application of Monte Carlo method in nuclear physics(OpenMC) in this summer vacation (2022/7-8). After nearly a week of messing around (I used almost every method in the official documentation except 😂 on Mac), it's almost done on WSL2, and I'm sharing it with you, hopefully not as bad as I did 🤞.**
 
 *******************************
