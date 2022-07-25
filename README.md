@@ -112,7 +112,7 @@ git clone https://github.com/openmc-dev/openmc.git
 #git clone https://gitclone.com/github.com/openmc-dev/openmc.git
 ```
 [这个快一些⬆](https://www.hurbai.com/resource/642)
-[for faster git⬆](https://www.hurbai.com/resource/642)
+[For faster git⬆](https://www.hurbai.com/resource/642)
 ```
 cd openmc
 ```
@@ -122,7 +122,7 @@ pip install . && cmake .
 要花点时间⬆
 It takes time⬆
 
-![就这!That is it!](./屏幕截图 2022-07-26 004722.png)
+![就这!That is it!](successful.png)
 ## 更多
 ## More
 * ## [jupyter + wsl2](https://zhuanlan.zhihu.com/p/158824489)
