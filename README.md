@@ -126,7 +126,7 @@ It takes time⬆
 ![就这!That is it!](successful.png "就这!That is it!")
 ## 更多
 ## More
-* ## [jupyter + wsl2](https://zhuanlan.zhihu.com/p/158824489)
+* ## [jupyter + wsl2](https://www.wolai.com/file408/fVX9LNEdSKw9vaiYpoz9aW)
 * ## [vscode + wsl2](https://blog.csdn.net/weixin_43876113/article/details/105261577)
 
 
