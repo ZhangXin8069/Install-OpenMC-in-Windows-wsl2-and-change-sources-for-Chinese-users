@@ -122,6 +122,7 @@ pip install . && cmake .
 要花点时间⬆
 It takes time⬆
 
+就这!That is it!
 ![就这!That is it!](successful.png "就这!That is it!")
 ## 更多
 ## More
@@ -143,5 +144,6 @@ This is distributed under the MIT/X
 [license](https://docs.openmc.org/en/stable/license.html).
 ## Reference
 ## 参考
-[以上所以链接均来自各个平台，各位网友。如有侵权，我立即修改🌷。
-Above so link all come from each platform, each netizen. If there is infringement, I immediately modify🌷。](https://github.com/zx2810)
+[以上所以链接均来自各个平台，各位网友。如有侵权，我立即修改🌷。](https://github.com/zx2810)
+
+[Above so link all come from each platform, each netizen. If there is infringement, I immediately modify🌷。](https://github.com/zx2810)
