@@ -122,7 +122,7 @@ pip install . && cmake .
 要花点时间⬆
 It takes time⬆
 
-![就这!That is it!](屏幕截图 2022-07-26 004722.png)
+![就这!That is it!](./屏幕截图 2022-07-26 004722.png)
 ## 更多
 ## More
 * ## [jupyter + wsl2](https://zhuanlan.zhihu.com/p/158824489)
