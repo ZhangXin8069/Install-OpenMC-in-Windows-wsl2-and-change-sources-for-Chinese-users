@@ -119,6 +119,9 @@ cd openmc
 ```
 pip install . && cmake .
 ```
+```
+sudo make install
+```
 要花点时间⬆
 It takes time⬆
 
