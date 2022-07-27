@@ -101,6 +101,23 @@ sudo apt install git cmake g++ mpich gfortran libhdf5-dev libpng-dev libeigen3-d
 #pip install -r requirements-rtd.txt⬇
 pip install sphinx==5.0.2 sphinx_rtd_theme==1.0.0 sphinx-numfig jupyter sphinxcontrib-katex sphinxcontrib-svg2pdfconverter numpy scipy h5py pandas uncertainties matplotlib
 ```
+还有个OpenMOC，以后会用到⬇
+There's also OpenMOC, which we'll use in the future⬇
+```
+cd ~
+```
+```
+git clone https://github.com/mit-crpg/OpenMOC.git
+#git clone https://gitclone.com/github.com/mit-crpg/OpenMOC.git
+```
+```
+python setup.py install --user
+```
+```
+pip install .
+```
+[这个快一些⬆](https://www.hurbai.com/resource/642)
+[For faster git⬆](https://www.hurbai.com/resource/642)
 
 ## 安装OpenMCヾ(≧▽≦*)o
 ## Install OpenMCヾ(≧▽≦*)o
@@ -111,8 +128,6 @@ cd ~
 git clone https://github.com/openmc-dev/openmc.git
 #git clone https://gitclone.com/github.com/openmc-dev/openmc.git
 ```
-[这个快一些⬆](https://www.hurbai.com/resource/642)
-[For faster git⬆](https://www.hurbai.com/resource/642)
 ```
 cd openmc
 ```
