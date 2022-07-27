@@ -107,6 +107,10 @@ There's also OpenMOC, which we'll use in the future⬇
 cd ~
 ```
 ```
+pip install swig pillow # Because above,this is enough.
+#pip install swig numpy matplotlib h5py pillow
+```
+```
 git clone https://github.com/mit-crpg/OpenMOC.git
 #git clone https://gitclone.com/github.com/mit-crpg/OpenMOC.git
 ```
