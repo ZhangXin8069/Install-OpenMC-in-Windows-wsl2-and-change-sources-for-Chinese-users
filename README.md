@@ -110,15 +110,14 @@ cd ~
 git clone https://github.com/mit-crpg/OpenMOC.git
 #git clone https://gitclone.com/github.com/mit-crpg/OpenMOC.git
 ```
+[这个快一些⬆](https://www.hurbai.com/resource/642)
+[For faster git⬆](https://www.hurbai.com/resource/642)
 ```
 python setup.py install --user
 ```
 ```
 pip install .
 ```
-[这个快一些⬆](https://www.hurbai.com/resource/642)
-[For faster git⬆](https://www.hurbai.com/resource/642)
-
 ## 安装OpenMCヾ(≧▽≦*)o
 ## Install OpenMCヾ(≧▽≦*)o
 ```
