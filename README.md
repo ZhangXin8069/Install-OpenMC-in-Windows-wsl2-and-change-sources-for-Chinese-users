@@ -1,4 +1,4 @@
-# Install OpenMC in windows10 (wsl2)😊. Change sources for download(for Chinese users)👌.
+# Install OpenMC in Windows (wsl2)😊. Change sources for download(for Chinese users)👌.
 [![License](https://img.shields.io/badge/license-MIT-green)](https://docs.openmc.org/en/latest/license.html)
 
 **[The OpenMC project aims to provide a fully-featured Monte Carlo particle
