@@ -129,6 +129,9 @@ It takes time⬆
 ![就这!That is it!](successful.png "就这!That is it!")
 ## 更多
 ## More
+* ## [Configurate Cross Section (Master recommended ENDF—B7👌)](https://docs.openmc.org/en/stable/usersguide/cross_sections.html)
+* ## [Unzip the lib](https://docs.openmc.org/en/stable/usersguide/cross_sections.html)
+* ## [Configurate the Cross Section Path](https://openmc.discourse.group/t/how-does-openmc-locate-the-jeff33-endfb-libraries/1349)
 * ## [jupyter + wsl2](https://www.wolai.com/file408/fVX9LNEdSKw9vaiYpoz9aW)
 * ## [vscode + wsl2](https://blog.csdn.net/weixin_43876113/article/details/105261577)
 
